@@ -1,0 +1,8 @@
+
+/UpgradeLog.XML
+*.user
+*.suo
+*.htm
+/Backup
+/_UpgradeReport_Files
+_Resharper*
